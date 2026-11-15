@@ -1,3 +1,7 @@
+Trần Hoàng Đức Linh
+Mssv: 202418932
+
+
 # Smart Home Mini
 
 Ứng dụng điều khiển nhà thông minh gồm đèn, quạt và cửa (Java).
